@@ -17,4 +17,4 @@ services:
       Password: "numsey#2021"
       Database: "LivrosDb"
     ports: 
-      - "8090:80"
+      - "80:80"
